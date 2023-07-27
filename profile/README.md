@@ -131,7 +131,7 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 
 <p align="left"> <a href="https://twitter.com/ivobaptista" target="blank"><img src="https://img.shields.io/twitter/follow/IvoBaptista?logo=twitter&style=for-the-badge" alt="Ivo" /></a> </p>
 
-- 🔭 2022 Goal **Build more projects in Web3 Space and contribute in Open Source**
+- 🔭 2024 Goal **Build more projects in Web3 Space and contribute in Open Source**
 
 - 🌱 I’m currently learning **to remove software chaos, one at a time.**
 
@@ -139,7 +139,7 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 
 - 👨‍💻 All of my projects are available at [https://ivo.com.pt](https://ivo.com.pt)
 
-- 💬 Ask me about **React,Javascript**
+- 💬 Ask me about **React,Javascript, Python, C++**
 
 - 📫 How to reach me **ivowebdev@gmail.com**
 
