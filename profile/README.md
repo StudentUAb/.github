@@ -85,8 +85,7 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 
 [![Python](https://img.shields.io/badge/-Python-ADFF2F?logo=python&link=https://github.com/ivobass/)](https://github.com/ivobass/) 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/ivobass/)](https://github.com/ivobass/) 
-[![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++&link=https://github.com/ivobass/)](https://github.com/ivobass/) 
-	
+[![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++&link=https://github.com/ivobass/)](https://github.com/ivobass/) 	
 
 
 ##
