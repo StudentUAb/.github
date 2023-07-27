@@ -126,12 +126,10 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/ivobass/)](https://github.com/ivobass/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/ivobass/)](https://github.com/ivobass/) [![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/ivobass/)](https://github.com/ivobass/)
 
 
-  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
-
-<h1 align="center">Hi there👋, I'm Ivo Baptista</h1>
+<h1 align="center">Hi there👋, I'm Ivo </h1>
 <h3 align="center">Buidling things for web | A full stack dev from Portugal</h3>
 
-<p align="left"> <a href="https://twitter.com/ivobaptista" target="blank"><img src="https://img.shields.io/twitter/follow/saurra3h?logo=twitter&style=for-the-badge" alt="Ivo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ivobaptista" target="blank"><img src="https://img.shields.io/twitter/follow/IvoBaptista?logo=twitter&style=for-the-badge" alt="Ivo" /></a> </p>
 
 - 🔭 2022 Goal **Build more projects in Web3 Space and contribute in Open Source**
 
