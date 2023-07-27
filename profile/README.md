@@ -57,25 +57,6 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/devices/pc.svg" alt="PC" style="vertical-align:top; margin:4px"></details>
 
 
-## :exclamation: Requisitos
-
--  Node
--  Yarn (recomendado)
--  Docker (opcional)
-
-## :blue_heart: Extensões VSCode
-
--  IntelliSense for CSS class names in HTML
--  Error Lens
--  Color Highlight
--  Color Picker
--  Visual Studio IntelliCode
--  Prettier - Code Formatter
--  GitLens - Git supercharged
--  Docker (opcional)
--  Theme Spider Man (opcional)
--  Material Icon Theme (opcional)
-
 ## :hand: Autor
 
 | [<img width=100 src="https://avatars1.githubusercontent.com/u/9615594?s=400&v=4"><br><sub>@ivobass</sub>](https://github.com/ivobass) |
