@@ -18,14 +18,14 @@
 
 Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicações e Estudando Desenvolvimento de Sistemas FrontEnd e BackEnd.
 
-- 🌱 Atualmente estou aprendendo DevOps
+- 🌱 Atualmente estou estudar Licenciatura em Engenharia Informática na UAb 
 - ⚙️ Eu uso diariamente: `.js`, `.html`, `.css`, `.php`, `.py`, `.dart`, `wordpress`, `.C`, `.C++`, `.Java`,
 - 💬 Fale comigo!
 - Eu :heart: open source!
 - :books: Pense em Python
 - :office_worker: Especialista na  **VODAFONE PT**
 - :blue_heart: Techs: Git/GitHub, React.js, React Native, Node.js, Flutter, BootStrap, Docker, Firebase, Wordpress, segurança, entre outras.
-- :books: Estudando CI/CD com Jenkins,GitHub Actions, Docker e Azure :heart:
+- :books: Estudando CI/CD com Jenkins,GitHub Actions,Kubernets, Docker e Azure :heart:
 
 > :octocat: [(https://ivo.com.pt)](https://ivo.com.pt)
 
@@ -57,8 +57,6 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/devices/pc.svg" alt="PC" style="vertical-align:top; margin:4px"></details>
 
 
-
-
 ## :exclamation: Requisitos
 
 -  Node
@@ -78,33 +76,12 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 -  Theme Spider Man (opcional)
 -  Material Icon Theme (opcional)
 
-## :question: Como
-
--  Iniciar:
-   -  Digite `yarn` para instalar as dependências.
--  Iniciar o Desenvolvimento:
-   -  Digite `yarn dev` para iniciar o servidor web de Desenvolvimento.
-   -  Acesse `localhost:3000` no navegador.
--  Iniciar o build de produção localmente:
-   -  Digite `yarn build` para gerar a build dos pacotes.
-   -  Digite `yarn start -l 80` para iniciar o servidor web.
-   -  Acesse `localhost` no navegador (ou `localhost:5000` sem o argumento `-l 80`).
-
-## :whale: Usando Docker
-
--  Digite `docker build -t portfolio/web .`
--  Digite `docker-compose up -d` ou `docker container run --name portfolio_web -p 80:80 portfolio/web`
--  Acesse `localhost` no navegador.
--  Digite `docker container stop portfolio_web` para parar o container.
--  Digite `docker container start portfolio_web` para iniciar o container.
-
 ## :hand: Autor
 
 | [<img width=100 src="https://avatars1.githubusercontent.com/u/9615594?s=400&v=4"><br><sub>@ivobass</sub>](https://github.com/ivobass) |
 | :----------------------------------------------------------------------------------------------------------------------------: |
 
 ##
-
 
 # Hi, I'm Ivo Baptista!
 
@@ -115,7 +92,7 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 
 👩‍💻 <strong>I'm learn Fullstack Developer.</strong> 
 
-👣 I'm 50 Years Old.
+👣 I'm 53 Years Old.
 
 🌍 I live in Portugal.
 
@@ -171,7 +148,7 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
 
 <h1 align="center">Hi there👋, I'm Ivo Baptista</h1>
-<h3 align="center">Buidling things for web | A full stack dev from India</h3>
+<h3 align="center">Buidling things for web | A full stack dev from Portugal</h3>
 
 <p align="left"> <a href="https://twitter.com/ivobaptista" target="blank"><img src="https://img.shields.io/twitter/follow/saurra3h?logo=twitter&style=for-the-badge" alt="Ivo" /></a> </p>
 
@@ -191,9 +168,9 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; align-items:center">
-<a href="https://twitter.com/saurra3h" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saurra3h" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/starc007" target="blank" style="margin-left:15px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="starc007" height="30" width="30" /></a>
-<a href="https://instagram.com/saurra3h" target="blank" style="margin-left:15px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurra3h" height="30" width="30" /></a>
+<a href="https://twitter.com/ivobaptista" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ivo" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/ivo-baptista-3712144/" target="blank" style="margin-left:15px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ivo" height="30" width="30" /></a>
+<a href="https://instagram.com/ivobassplayer" target="blank" style="margin-left:15px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ivo" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
