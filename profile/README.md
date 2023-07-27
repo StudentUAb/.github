@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Web3 Projects**
 
-- 👨‍💻 All of my projects are available at [https://jutsu.tech](https://jutsu.tech)
+- 👨‍💻 All of my projects are available at [https://ivo.com.pt](https://ivo.com.pt)
 
 - 💬 Ask me about **React,Javascript**
 
